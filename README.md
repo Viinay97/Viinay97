@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate Full Stack Web Developer with ex
 
 ## About Me
 
-#### My main area of interest iS FRONTEND DEVELOPMENT, Here are some of the technologies I'm familiar with.
+#### My main area of interest is FRONTEND DEVELOPMENT, Here are some of the technologies I'm familiar with.
 
 - **💻 Programming Languages:**
   <p align="center">
